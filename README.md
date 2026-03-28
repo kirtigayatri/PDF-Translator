@@ -58,8 +58,4 @@ pip install streamlit deep-translator fpdf
 ## License
 This project is licensed under the MIT License.
 
-## Author
-[https://github.com/Sisira121]  
-Email: sisiras325@gmail.com
-
 
